@@ -19,6 +19,7 @@ SiteID|chainID|Country|Segment
 2     |      1|CZE    |Premium
 3     |      8|CZE    |Value for money
 
+
 ## Products
 
 ProductID|Description
